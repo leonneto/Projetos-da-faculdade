@@ -1,0 +1,8 @@
+
+public class Veiculo {
+	private String nome;
+	private String marca;
+	private int ano;
+	private String cor;
+
+}
